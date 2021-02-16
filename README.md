@@ -1,5 +1,5 @@
 # Java-HelloHunchoApp
-A quick starting guide on using spring booty
+A quick example of how to create a POJO and perform a @getMapping("/greeting") along with multiple @requestParam() if needed. 
 
 # Welcome
 You might ask what is this. Great question. People make hello world applications, I make hello Huncho applications.
